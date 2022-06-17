@@ -1,6 +1,6 @@
 # State: <a href="https://react-state-maloert.netlify.app/" target="_blank">Simple React state exercise</a>
 
-## Tech used: ![HTML5 BADGE](https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=flat-square&logo=html5)![CSS BADGE](https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=flat-square&logo=css3)![JAVASCRIPT BADGE](https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=flat-square&logo=javascript)![REACT BADGE](https://img.shields.io/static/v1?label=|&message=REACT&color=3c7f5d&style=flat-square&logo=react)
+## Tech used: ![HTML5 BADGE](https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=flat-square&logo=html5)![CSS BADGE](https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=flat-square&logo=css3)![JAVASCRIPT BADGE](https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=flat-square&logo=javascript)![REACT BADGE](https://img.shields.io/static/v1?label=|&message=REACT&color=3c7f5d&style=flat-square&logo=react)![JAVASCRIPT BADGE](https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=flat-square&logo=javascript)
 
 I focused on expanding my knowledge of state in React apps.
 
